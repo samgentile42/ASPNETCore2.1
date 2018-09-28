@@ -1,0 +1,14 @@
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.deps.json
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.runtimeconfig.json
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.runtimeconfig.dev.json
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.dll
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.pdb
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.csprojAssemblyReference.cache
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cache
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cs
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.AssemblyInfoInputs.cache
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.AssemblyInfo.cs
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.dll
+C:\Dev\Visual Studio 2017\Projects\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.pdb
