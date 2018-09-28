@@ -1,0 +1,2 @@
+# ASPNETCore2.1
+All my VS2017 ASP.NET Core MVC 2.1 Work
